@@ -26,4 +26,5 @@ You need to know:
 Getting Started
 ---------------
 
+[使用 Room 读取和更新数据](https://developer.android.com/codelabs/basic-android-kotlin-compose-update-data-room?hl=zh-cn&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-6-pathway-2%3Fhl%3Dzh_cn%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-update-data-room#9)
 1. Download and run the app.
